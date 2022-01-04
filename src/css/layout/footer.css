@@ -1,0 +1,9 @@
+.footer{
+        height: auto;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        background-color: #474546;
+        color: #fff;
+        text-decoration: none;
+}
