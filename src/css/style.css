@@ -33,6 +33,7 @@
     color: #fff;
     text-align: center;
     border: solid;
+    text-decoration: none;
 }
 .h1c {
     font-family: var(--font-raleway-regular);
