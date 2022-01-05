@@ -68,3 +68,9 @@ header{
     size: 9px;
     color: white;
 }
+.visionneuse2{
+    visibility: hidden;
+    position: absolute;
+    top: 375px;
+    right: 391px;
+}
