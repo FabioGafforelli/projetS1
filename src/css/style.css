@@ -62,3 +62,8 @@ header{
     background-color: #474546;
     color: #fff;
 }
+.p3 {
+    font-family: var(--font-raleway-regular);
+    size: 9px;
+    color: white;
+}

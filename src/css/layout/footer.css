@@ -13,8 +13,8 @@
         position: absolute;
         width: auto;
         height: auto;
-        padding-top: -50px;
-        padding-left: 200px;
+        padding-top: -100px;
+        padding-left: 80px;
 }
 footer {
         height: auto;
@@ -31,13 +31,13 @@ footer {
         position: absolute;
         width: auto;
         height: auto;
-        padding-top: -50px;
-        padding-left: 250px;
+        padding-top: -100px;
+        padding-left: 125px;
 }
 .logo-twitter {
         position: absolute;
         width: auto;
         height: auto;
-        padding-top: -50px;
-        padding-left: 300px;
+        padding-top: -100px;
+        padding-left: 150px;
 }
