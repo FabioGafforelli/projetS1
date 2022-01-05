@@ -6,6 +6,8 @@
         background-color: #474546;
         color: #fff;
         text-decoration: none;
+        font-family: var(--font-raleway-regular);
+        size: 10px;
 }
 .logo-instagram{
         position: absolute;
@@ -24,6 +26,7 @@ footer {
         color: #fff;
         text-decoration: none;
 }
+
 .logo-facebook {
         position: absolute;
         width: auto;
