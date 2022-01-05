@@ -1,5 +1,21 @@
 .footer{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        background-color: #474546;
+        color: #fff;
+        text-decoration: none;
+}
+.logo-instagram{
+        position: absolute;
+        width: auto;
         height: auto;
+        padding-top: -50px;
+        padding-left: 500px;
+}
+footer {
+        height: auto;
+        width: 100%;
         display: flex;
         justify-content: center;
         padding: 10px;
